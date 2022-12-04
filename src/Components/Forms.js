@@ -60,5 +60,5 @@ export default function Forms() {
 }
 
 function NoPage(){
-  return <h2 style={{color:'white',textAlign:'center'}} className='mt-5'>404 ,Not found</h2>
+  return <h2 style={{color:'white',textAlign:'center'}} className='mt-5'>404 ,Not Page found</h2>
 }
